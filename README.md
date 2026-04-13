@@ -16,7 +16,6 @@ End-to-end Computer Vision pipeline for individual cattle identification and spa
 * **Vector Search:** Integrated FAISS for high-speed cross-pose similarity matching.
 * **Hybrid Tracking:** Developed a custom tracking algorithm (Hungarian Assignment) combining Spatial Anchoring and Cosine Similarity, achieving 0 ID switches.
 * **Visual Stability:** Engineered Exponential Moving Average (EMA) smoothing for sticky, jitter-free bounding boxes.
-* **Repo:** [Link to your CowTrack repository here]
 
 ---
 
