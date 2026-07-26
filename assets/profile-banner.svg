@@ -1,6 +1,6 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Emiliano Orlando portfolio banner</title>
-  <desc id="desc">Professional portfolio banner for data science, artificial intelligence, computer vision, automation and applied research.</desc>
+  <desc id="desc">Professional portfolio banner for data science, artificial intelligence, automation, APIs, computer vision and applied projects.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#101828"/>
@@ -28,7 +28,7 @@
   <path d="M82 303C190 244 291 250 395 290C515 335 609 334 704 262C808 183 928 156 1101 231" stroke="#F2C94C" stroke-opacity="0.26" stroke-width="3"/>
 
   <g opacity="0.95" filter="url(#softShadow)">
-    <rect x="70" y="64" width="648" height="292" rx="22" fill="#0B1220" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="70" y="64" width="660" height="292" rx="22" fill="#0B1220" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.12"/>
     <rect x="96" y="92" width="86" height="86" rx="20" fill="url(#accent)"/>
     <path d="M119 137L138 117L161 146" stroke="#0B1220" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="162" cy="116" r="7" fill="#0B1220"/>
@@ -36,20 +36,20 @@
     <text x="206" y="122" fill="#E6FFFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="1.8">PORTFOLIO</text>
     <text x="96" y="221" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Emiliano Orlando</text>
     <text x="98" y="267" fill="#BEE3F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">Tecnico en Ciencia de Datos e Inteligencia Artificial</text>
-    <text x="98" y="312" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Computer Vision · Deep Learning · Automatizacion · IA Aplicada</text>
+    <text x="98" y="312" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Datos · IA · Automatizacion · APIs · Vision por Computadora</text>
   </g>
 
-  <g transform="translate(800 68)" filter="url(#softShadow)">
-    <rect x="0" y="0" width="390" height="288" rx="24" fill="#F8FAFC" fill-opacity="0.94"/>
-    <rect x="28" y="30" width="334" height="44" rx="12" fill="#0F172A"/>
+  <g transform="translate(812 68)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="378" height="288" rx="24" fill="#F8FAFC" fill-opacity="0.94"/>
+    <rect x="28" y="30" width="322" height="44" rx="12" fill="#0F172A"/>
     <circle cx="52" cy="52" r="6" fill="#37E6B1"/>
     <circle cx="75" cy="52" r="6" fill="#56CCF2"/>
     <circle cx="98" cy="52" r="6" fill="#F2C94C"/>
     <rect x="28" y="101" width="126" height="118" rx="18" fill="#E0F2FE"/>
-    <rect x="176" y="101" width="186" height="26" rx="8" fill="#CBD5E1"/>
-    <rect x="176" y="145" width="154" height="18" rx="9" fill="#94A3B8"/>
-    <rect x="176" y="177" width="129" height="18" rx="9" fill="#94A3B8"/>
-    <rect x="176" y="209" width="172" height="18" rx="9" fill="#94A3B8"/>
+    <rect x="176" y="101" width="174" height="26" rx="8" fill="#CBD5E1"/>
+    <rect x="176" y="145" width="148" height="18" rx="9" fill="#94A3B8"/>
+    <rect x="176" y="177" width="120" height="18" rx="9" fill="#94A3B8"/>
+    <rect x="176" y="209" width="164" height="18" rx="9" fill="#94A3B8"/>
     <path d="M45 188C71 143 97 174 124 130" stroke="#0284C7" stroke-width="7" stroke-linecap="round"/>
     <circle cx="45" cy="188" r="8" fill="#0284C7"/>
     <circle cx="83" cy="158" r="8" fill="#0284C7"/>
