@@ -1,0 +1,73 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Emiliano Orlando portfolio banner</title>
+  <desc id="desc">Professional portfolio banner for data science, artificial intelligence, computer vision, automation and applied research.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101828"/>
+      <stop offset="0.48" stop-color="#183B3D"/>
+      <stop offset="1" stop-color="#2C1E4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#37E6B1"/>
+      <stop offset="0.55" stop-color="#56CCF2"/>
+      <stop offset="1" stop-color="#F2C94C"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+
+  <path d="M0 332C155 298 210 382 374 346C523 313 585 214 733 232C920 255 967 390 1280 312V420H0V332Z" fill="#37E6B1" fill-opacity="0.10"/>
+  <path d="M0 83C190 139 324 42 504 85C690 130 751 254 940 216C1088 186 1165 86 1280 118" stroke="#56CCF2" stroke-opacity="0.24" stroke-width="3"/>
+  <path d="M82 303C190 244 291 250 395 290C515 335 609 334 704 262C808 183 928 156 1101 231" stroke="#F2C94C" stroke-opacity="0.26" stroke-width="3"/>
+
+  <g opacity="0.95" filter="url(#softShadow)">
+    <rect x="70" y="64" width="648" height="292" rx="22" fill="#0B1220" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="96" y="92" width="86" height="86" rx="20" fill="url(#accent)"/>
+    <path d="M119 137L138 117L161 146" stroke="#0B1220" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="162" cy="116" r="7" fill="#0B1220"/>
+
+    <text x="206" y="122" fill="#E6FFFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="1.8">PORTFOLIO</text>
+    <text x="96" y="221" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Emiliano Orlando</text>
+    <text x="98" y="267" fill="#BEE3F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">Tecnico en Ciencia de Datos e Inteligencia Artificial</text>
+    <text x="98" y="312" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Computer Vision · Deep Learning · Automatizacion · IA Aplicada</text>
+  </g>
+
+  <g transform="translate(800 68)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="390" height="288" rx="24" fill="#F8FAFC" fill-opacity="0.94"/>
+    <rect x="28" y="30" width="334" height="44" rx="12" fill="#0F172A"/>
+    <circle cx="52" cy="52" r="6" fill="#37E6B1"/>
+    <circle cx="75" cy="52" r="6" fill="#56CCF2"/>
+    <circle cx="98" cy="52" r="6" fill="#F2C94C"/>
+    <rect x="28" y="101" width="126" height="118" rx="18" fill="#E0F2FE"/>
+    <rect x="176" y="101" width="186" height="26" rx="8" fill="#CBD5E1"/>
+    <rect x="176" y="145" width="154" height="18" rx="9" fill="#94A3B8"/>
+    <rect x="176" y="177" width="129" height="18" rx="9" fill="#94A3B8"/>
+    <rect x="176" y="209" width="172" height="18" rx="9" fill="#94A3B8"/>
+    <path d="M45 188C71 143 97 174 124 130" stroke="#0284C7" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="45" cy="188" r="8" fill="#0284C7"/>
+    <circle cx="83" cy="158" r="8" fill="#0284C7"/>
+    <circle cx="124" cy="130" r="8" fill="#0284C7"/>
+    <rect x="28" y="247" width="78" height="14" rx="7" fill="#14B8A6"/>
+    <rect x="122" y="247" width="78" height="14" rx="7" fill="#3B82F6"/>
+    <rect x="216" y="247" width="78" height="14" rx="7" fill="#F59E0B"/>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="763" cy="120" r="5" fill="#37E6B1"/>
+    <circle cx="745" cy="178" r="5" fill="#56CCF2"/>
+    <circle cx="775" cy="246" r="5" fill="#F2C94C"/>
+    <circle cx="1198" cy="70" r="5" fill="#37E6B1"/>
+    <circle cx="1225" cy="248" r="5" fill="#56CCF2"/>
+    <path d="M763 120L745 178L775 246" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="2"/>
+    <path d="M1198 70L1225 248" stroke="#FFFFFF" stroke-opacity="0.20" stroke-width="2"/>
+  </g>
+
+  <rect x="1.5" y="1.5" width="1277" height="417" rx="26.5" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3"/>
+</svg>
