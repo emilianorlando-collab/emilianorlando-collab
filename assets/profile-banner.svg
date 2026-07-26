@@ -1,73 +1,70 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Emiliano Orlando portfolio banner</title>
-  <desc id="desc">Professional portfolio banner for data science, artificial intelligence, automation, APIs, computer vision and applied projects.</desc>
+  <title id="title">Emiliano Orlando - Data Science and AI</title>
+  <desc id="desc">Clean English portfolio banner for data science, artificial intelligence, automation, APIs and applied projects.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#101828"/>
-      <stop offset="0.48" stop-color="#183B3D"/>
-      <stop offset="1" stop-color="#2C1E4A"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.45" stop-color="#12343B"/>
+      <stop offset="1" stop-color="#312E81"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#37E6B1"/>
-      <stop offset="0.55" stop-color="#56CCF2"/>
-      <stop offset="1" stop-color="#F2C94C"/>
+    <linearGradient id="line" x1="130" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.35"/>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020617" flood-opacity="0.34"/>
     </filter>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" stroke="#FFFFFF" stroke-opacity="0.055"/>
     </pattern>
   </defs>
 
-  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
-  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+  <rect width="1280" height="420" rx="30" fill="url(#background)"/>
+  <rect width="1280" height="420" rx="30" fill="url(#grid)"/>
 
-  <path d="M0 332C155 298 210 382 374 346C523 313 585 214 733 232C920 255 967 390 1280 312V420H0V332Z" fill="#37E6B1" fill-opacity="0.10"/>
-  <path d="M0 83C190 139 324 42 504 85C690 130 751 254 940 216C1088 186 1165 86 1280 118" stroke="#56CCF2" stroke-opacity="0.24" stroke-width="3"/>
-  <path d="M82 303C190 244 291 250 395 290C515 335 609 334 704 262C808 183 928 156 1101 231" stroke="#F2C94C" stroke-opacity="0.26" stroke-width="3"/>
+  <path d="M0 315C150 270 256 346 410 306C585 261 648 151 822 182C980 210 1034 321 1280 268V420H0V315Z" fill="#38BDF8" fill-opacity="0.10"/>
+  <path d="M75 126C230 62 386 126 511 97C670 60 740 171 880 143C1017 115 1092 55 1215 94" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="3"/>
+  <path d="M95 310C220 232 350 260 473 303C598 347 708 331 817 254C929 175 1040 179 1184 236" stroke="#F59E0B" stroke-opacity="0.26" stroke-width="3"/>
 
-  <g opacity="0.95" filter="url(#softShadow)">
-    <rect x="70" y="64" width="660" height="292" rx="22" fill="#0B1220" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <rect x="96" y="92" width="86" height="86" rx="20" fill="url(#accent)"/>
-    <path d="M119 137L138 117L161 146" stroke="#0B1220" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="162" cy="116" r="7" fill="#0B1220"/>
+  <g filter="url(#shadow)">
+    <rect x="72" y="70" width="720" height="280" rx="26" fill="#020617" fill-opacity="0.58" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="112" y="112" width="88" height="88" rx="22" fill="url(#line)"/>
+    <path d="M133 159L153 137L178 169" stroke="#020617" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="179" cy="136" r="7" fill="#020617"/>
 
-    <text x="206" y="122" fill="#E6FFFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="1.8">PORTFOLIO</text>
-    <text x="96" y="221" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Emiliano Orlando</text>
-    <text x="98" y="267" fill="#BEE3F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">Tecnico en Ciencia de Datos e Inteligencia Artificial</text>
-    <text x="98" y="312" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Datos · IA · Automatizacion · APIs · Vision por Computadora</text>
+    <text x="224" y="151" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">PORTFOLIO</text>
+    <text x="112" y="241" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800">Emiliano Orlando</text>
+    <text x="116" y="295" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Data Science &amp; Artificial Intelligence</text>
   </g>
 
-  <g transform="translate(812 68)" filter="url(#softShadow)">
-    <rect x="0" y="0" width="378" height="288" rx="24" fill="#F8FAFC" fill-opacity="0.94"/>
-    <rect x="28" y="30" width="322" height="44" rx="12" fill="#0F172A"/>
-    <circle cx="52" cy="52" r="6" fill="#37E6B1"/>
-    <circle cx="75" cy="52" r="6" fill="#56CCF2"/>
-    <circle cx="98" cy="52" r="6" fill="#F2C94C"/>
-    <rect x="28" y="101" width="126" height="118" rx="18" fill="#E0F2FE"/>
-    <rect x="176" y="101" width="174" height="26" rx="8" fill="#CBD5E1"/>
-    <rect x="176" y="145" width="148" height="18" rx="9" fill="#94A3B8"/>
-    <rect x="176" y="177" width="120" height="18" rx="9" fill="#94A3B8"/>
-    <rect x="176" y="209" width="164" height="18" rx="9" fill="#94A3B8"/>
-    <path d="M45 188C71 143 97 174 124 130" stroke="#0284C7" stroke-width="7" stroke-linecap="round"/>
-    <circle cx="45" cy="188" r="8" fill="#0284C7"/>
-    <circle cx="83" cy="158" r="8" fill="#0284C7"/>
-    <circle cx="124" cy="130" r="8" fill="#0284C7"/>
-    <rect x="28" y="247" width="78" height="14" rx="7" fill="#14B8A6"/>
-    <rect x="122" y="247" width="78" height="14" rx="7" fill="#3B82F6"/>
-    <rect x="216" y="247" width="78" height="14" rx="7" fill="#F59E0B"/>
+  <g transform="translate(860 90)" filter="url(#shadow)">
+    <rect width="330" height="240" rx="28" fill="#F8FAFC" fill-opacity="0.94"/>
+    <rect x="30" y="32" width="270" height="42" rx="13" fill="#0F172A"/>
+    <circle cx="55" cy="53" r="6" fill="#22C55E"/>
+    <circle cx="78" cy="53" r="6" fill="#38BDF8"/>
+    <circle cx="101" cy="53" r="6" fill="#F59E0B"/>
+
+    <rect x="32" y="102" width="78" height="88" rx="16" fill="#DCFCE7"/>
+    <rect x="126" y="102" width="78" height="88" rx="16" fill="#E0F2FE"/>
+    <rect x="220" y="102" width="78" height="88" rx="16" fill="#FEF3C7"/>
+    <path d="M48 160L72 134L94 170" stroke="#16A34A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M145 162C158 132 174 132 188 160" stroke="#0284C7" stroke-width="7" stroke-linecap="round"/>
+    <path d="M240 158H278M259 139V177" stroke="#D97706" stroke-width="7" stroke-linecap="round"/>
+
+    <rect x="32" y="208" width="55" height="10" rx="5" fill="#22C55E"/>
+    <rect x="101" y="208" width="55" height="10" rx="5" fill="#38BDF8"/>
+    <rect x="170" y="208" width="55" height="10" rx="5" fill="#6366F1"/>
+    <rect x="239" y="208" width="55" height="10" rx="5" fill="#F59E0B"/>
   </g>
 
-  <g opacity="0.85">
-    <circle cx="763" cy="120" r="5" fill="#37E6B1"/>
-    <circle cx="745" cy="178" r="5" fill="#56CCF2"/>
-    <circle cx="775" cy="246" r="5" fill="#F2C94C"/>
-    <circle cx="1198" cy="70" r="5" fill="#37E6B1"/>
-    <circle cx="1225" cy="248" r="5" fill="#56CCF2"/>
-    <path d="M763 120L745 178L775 246" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="2"/>
-    <path d="M1198 70L1225 248" stroke="#FFFFFF" stroke-opacity="0.20" stroke-width="2"/>
+  <g opacity="0.82">
+    <circle cx="822" cy="115" r="5" fill="#22C55E"/>
+    <circle cx="805" cy="184" r="5" fill="#38BDF8"/>
+    <circle cx="832" cy="257" r="5" fill="#F59E0B"/>
+    <path d="M822 115L805 184L832 257" stroke="#FFFFFF" stroke-opacity="0.24" stroke-width="2"/>
   </g>
 
-  <rect x="1.5" y="1.5" width="1277" height="417" rx="26.5" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3"/>
+  <rect x="1.5" y="1.5" width="1277" height="417" rx="28.5" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="3"/>
+  <rect x="112" y="322" width="520" height="6" rx="3" fill="url(#line)"/>
 </svg>
