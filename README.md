@@ -1,14 +1,25 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/241468359?v=4" width="150" alt="Emiliano Orlando" style="border-radius: 50%;" />
+![Emiliano Orlando - Portfolio](./assets/profile-banner.svg)
 
 # Hola, soy Emiliano Orlando
 
-### Técnico en Ciencia de Datos · Inteligencia Artificial · Computer Vision · Deep Learning · Automatización
+### Técnico en Ciencia de Datos e Inteligencia Artificial
 
-Soy Técnico en Ciencia de Datos, con foco en proyectos aplicados de Inteligencia Artificial, visión por computadora, automatización de procesos y construcción de prototipos funcionales end-to-end.
+Trabajo con Python, SQL, automatización, APIs, modelos de IA y herramientas de visión por computadora. Me gusta armar proyectos completos: desde la exploración de datos y el diseño del pipeline hasta la documentación, las métricas y una demo que se pueda usar.
 
-Me interesa transformar problemas reales en sistemas medibles: desde pipelines de detección y reidentificación visual hasta flujos automatizados con LLMs, APIs y documentación reproducible.
-</div>
+En mis repos vas a encontrar proyectos de Ciencia de Datos, Machine Learning, Computer Vision, automatización con IA, procesamiento de información e investigación aplicada.
+
+---
+
+## Qué sé hacer
+
+- Programación en Python para análisis, automatización y prototipos de IA.
+- Consultas y modelado básico con SQL.
+- Procesamiento de datos, estructuración de pipelines y documentación reproducible.
+- Machine Learning y Deep Learning aplicado con PyTorch, NumPy, SciPy y herramientas relacionadas.
+- Visión por computadora con YOLOv8, OpenCV, embeddings, tracking y búsqueda vectorial con FAISS.
+- Automatización de flujos con n8n, JavaScript, APIs, OAuth2 y modelos LLM como Gemini.
+- Integración de herramientas experimentales como Qiskit e IBM Quantum Runtime para investigación híbrida.
+- Armado de reportes, evidencias técnicas, README completos y proyectos presentables.
 
 ---
 
@@ -16,7 +27,7 @@ Me interesa transformar problemas reales en sistemas medibles: desde pipelines d
 
 ### CowTrack MVP - Detección, conteo, tracking y Re-ID de vacas
 
-Sistema completo de visión computacional para analizar video aéreo real de ganado mediante YOLOv8, embeddings Re-ID, FAISS y tracking temporal.
+Sistema completo para analizar video aéreo real de ganado mediante YOLOv8, embeddings Re-ID, FAISS y tracking temporal.
 
 - Detección y conteo de vacas en video capturado con dron.
 - Reidentificación individual de vacas catalogadas.
@@ -36,7 +47,7 @@ Proyecto de investigación y desarrollo para identificación individual de vacas
 - Indexación vectorial rápida con FAISS.
 - Evaluación closed-set y open-set sobre OpenCows2020.
 - Calibración de thresholds para rechazar individuos desconocidos.
-- Base técnica para evolucionar hacia detección + tracking + Re-ID en condiciones reales de campo.
+- Base técnica para evolucionar hacia detección, tracking y Re-ID en condiciones reales de campo.
 
 Repo: [cowtrack](https://github.com/emilianorlando-collab/cowtrack)
 
@@ -44,7 +55,7 @@ Repo: [cowtrack](https://github.com/emilianorlando-collab/cowtrack)
 
 ### AutoNews - Pipeline automatizado de noticias con IA
 
-Flujo self-hosted de automatización para extraer, procesar, resumir y distribuir noticias de tecnología y ciencia.
+Flujo self-hosted para extraer, procesar, resumir y distribuir noticias de tecnología y ciencia.
 
 - Ingesta de feeds RSS mediante n8n.
 - Normalización de datos con JavaScript.
@@ -86,7 +97,7 @@ Repo: [portfolio](https://github.com/emilianorlando-collab/portfolio)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Data Science, IA y Computer Vision
+### Datos, IA y visión por computadora
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -109,10 +120,10 @@ Repo: [portfolio](https://github.com/emilianorlando-collab/portfolio)
 ## Foco actual
 
 - Consolidar un portfolio sólido de proyectos end-to-end en Ciencia de Datos e IA.
-- Profundizar en Computer Vision aplicada, Re-ID, detección de objetos y tracking temporal.
 - Mejorar pipelines reproducibles con métricas, reportes y documentación profesional.
+- Seguir desarrollando proyectos aplicados con datos, modelos, automatización e interfaces utilizables.
 - Explorar automatizaciones con LLMs, integraciones API y agentes de IA.
-- Llevar prototipos de laboratorio a sistemas utilizables y demostrables.
+- Llevar prototipos de laboratorio a sistemas demostrables y fáciles de explicar.
 
 ---
 
@@ -123,4 +134,4 @@ LinkedIn: [linkedin.com/in/emiliano-orlando-13405758](https://www.linkedin.com/i
 
 ---
 
-Gracias por visitar mi perfil. Podés recorrer mis repositorios para ver proyectos de visión computacional, automatización e investigación aplicada con IA.
+Gracias por visitar mi perfil. Podés recorrer mis repositorios para ver proyectos de Ciencia de Datos, automatización, visión por computadora e investigación aplicada con IA.
