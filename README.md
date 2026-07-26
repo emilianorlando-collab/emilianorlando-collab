@@ -1,81 +1,67 @@
 ![Emiliano Orlando - Portfolio](./assets/profile-banner.svg)
 
-# Hola, soy Emiliano Orlando
+# Hi, I'm Emiliano Orlando
 
-### Técnico en Ciencia de Datos e Inteligencia Artificial
+### Data Science and Artificial Intelligence Technician
 
-Trabajo con Python, SQL, automatización, APIs, modelos de IA y herramientas de visión por computadora. Me gusta armar proyectos completos: desde la exploración de datos y el diseño del pipeline hasta la documentación, las métricas y una demo que se pueda usar.
+I work with Python, SQL, automation, APIs, AI models, and computer vision tools. I like building complete projects: from data exploration and pipeline design to documentation, metrics, and usable demos.
 
-En mis repos vas a encontrar proyectos de Ciencia de Datos, Machine Learning, Computer Vision, automatización con IA, procesamiento de información e investigación aplicada.
-
----
-
-## Qué sé hacer
-
-- Programación en Python para análisis, automatización y prototipos de IA.
-- Consultas y modelado básico con SQL.
-- Procesamiento de datos, estructuración de pipelines y documentación reproducible.
-- Machine Learning y Deep Learning aplicado con PyTorch, NumPy, SciPy y herramientas relacionadas.
-- Visión por computadora con YOLOv8, OpenCV, embeddings, tracking y búsqueda vectorial con FAISS.
-- Automatización de flujos con n8n, JavaScript, APIs, OAuth2 y modelos LLM como Gemini.
-- Integración de herramientas experimentales como Qiskit e IBM Quantum Runtime para investigación híbrida.
-- Armado de reportes, evidencias técnicas, README completos y proyectos presentables.
+In my repositories you will find projects related to Data Science, Machine Learning, AI automation, information processing, computer vision, and applied research.
 
 ---
 
-## Proyectos destacados
+## What I Work With
 
-### CowTrack MVP - Detección, conteo, tracking y Re-ID de vacas
+- Python programming for analysis, automation, and AI prototypes.
+- SQL queries and basic data modeling.
+- Data processing, pipeline structure, and reproducible documentation.
+- Applied Machine Learning and Deep Learning with PyTorch, NumPy, SciPy, and related tools.
+- Computer vision with YOLOv8, OpenCV, embeddings, tracking, and vector search with FAISS.
+- Workflow automation with n8n, JavaScript, APIs, OAuth2, and LLMs such as Gemini.
+- Experimental tooling with Qiskit and IBM Quantum Runtime for hybrid research projects.
+- Technical reports, project documentation, evidence tracking, and portfolio-ready READMEs.
 
-Sistema completo para analizar video aéreo real de ganado mediante YOLOv8, embeddings Re-ID, FAISS y tracking temporal.
+---
 
-- Detección y conteo de vacas en video capturado con dron.
-- Reidentificación individual de vacas catalogadas.
-- Pipeline end-to-end con render final, reportes, métricas y webapp local.
-- Validación funcional del caso Erondina: 13 vacas reales vs 13 estimadas por el pipeline.
-- Stack principal: Python, PyTorch, YOLOv8, OpenCV, FAISS, NumPy, SciPy.
+## Featured Projects
+
+### Cow Tracker MVP - Final Project
+
+End-to-end system for analyzing real aerial cattle video using YOLOv8, Re-ID embeddings, FAISS, and temporal tracking.
+
+- Detects and counts cattle in drone footage.
+- Re-identifies cataloged animals across the video.
+- Includes a full pipeline with final rendered video, reports, metrics, and a local web app.
+- Final Erondina validation: 13 real cows vs 13 cows estimated by the pipeline.
+- Main stack: Python, PyTorch, YOLOv8, OpenCV, FAISS, NumPy, SciPy.
 
 Repo: [cow-tracker-mvp](https://github.com/emilianorlando-collab/cow-tracker-mvp)
 
 ---
 
-### CowTrack - Pipeline Re-ID con embeddings y FAISS
+### AutoNews - Automated AI News Pipeline
 
-Proyecto de investigación y desarrollo para identificación individual de vacas por apariencia visual.
+Self-hosted automation workflow for extracting, processing, summarizing, and distributing technology and science news.
 
-- Entrenamiento de embeddings con ResNet18 y triplet loss.
-- Indexación vectorial rápida con FAISS.
-- Evaluación closed-set y open-set sobre OpenCows2020.
-- Calibración de thresholds para rechazar individuos desconocidos.
-- Base técnica para evolucionar hacia detección, tracking y Re-ID en condiciones reales de campo.
-
-Repo: [cowtrack](https://github.com/emilianorlando-collab/cowtrack)
-
----
-
-### AutoNews - Pipeline automatizado de noticias con IA
-
-Flujo self-hosted para extraer, procesar, resumir y distribuir noticias de tecnología y ciencia.
-
-- Ingesta de feeds RSS mediante n8n.
-- Normalización de datos con JavaScript.
-- Síntesis semántica con Google Gemini.
-- Distribución del reporte final por Gmail API con OAuth2.
-- Documentación técnica, arquitectura del flujo y evidencias visuales.
+- RSS ingestion with n8n.
+- Data normalization with JavaScript.
+- Semantic summarization with Google Gemini.
+- Final report delivery through the Gmail API with OAuth2.
+- Technical documentation, workflow architecture, and visual evidence.
 
 Repo: [AutoNews](https://github.com/emilianorlando-collab/AutoNews)
 
 ---
 
-### Dorabella Quantum Decoder - Criptoanálisis híbrido clásico/cuántico
+### Dorabella Quantum Decoder - Classical/Quantum Hybrid Cryptanalysis
 
-Framework experimental para investigar el cifrado Dorabella con restricciones simbólicas, búsqueda léxica, memoria persistente y ejecución opcional con Qiskit / IBM Quantum Runtime.
+Experimental framework for exploring the Dorabella cipher with symbolic constraints, lexical search, persistent memory, and optional Qiskit / IBM Quantum Runtime execution.
 
-- Motor de restricciones con bijección estricta y alfabetos rotativos.
-- Búsqueda léxica y scoring semántico de candidatos.
-- Integración con Qiskit Aer e IBM Quantum Runtime para muestreo híbrido.
-- Separación entre hipótesis privadas, evidencia generada y código reproducible.
-- Stack principal: Python, Qiskit, NumPy, IBM Quantum Runtime.
+- Constraint engine with strict bijection and rotating alphabets.
+- Lexical search and semantic scoring for candidate plaintexts.
+- Qiskit Aer and IBM Quantum Runtime integration for hybrid sampling.
+- Clear separation between private hypotheses, generated evidence, and reproducible code.
+- Main stack: Python, Qiskit, NumPy, IBM Quantum Runtime.
 
 Repo: [dorabella_quantum_decoder](https://github.com/emilianorlando-collab/dorabella_quantum_decoder)
 
@@ -83,7 +69,7 @@ Repo: [dorabella_quantum_decoder](https://github.com/emilianorlando-collab/dorab
 
 ### Portfolio
 
-Repositorio base para organizar y publicar mi portfolio profesional de proyectos de Ciencia de Datos e Inteligencia Artificial.
+Repository used to organize and publish my professional portfolio for Data Science and Artificial Intelligence projects.
 
 Repo: [portfolio](https://github.com/emilianorlando-collab/portfolio)
 
@@ -91,13 +77,13 @@ Repo: [portfolio](https://github.com/emilianorlando-collab/portfolio)
 
 ## Tech Stack
 
-### Lenguajes
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Datos, IA y visión por computadora
+### Data, AI, and Computer Vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -106,7 +92,7 @@ Repo: [portfolio](https://github.com/emilianorlando-collab/portfolio)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
-### Automatización, APIs y herramientas
+### Automation, APIs, and Tools
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -117,21 +103,21 @@ Repo: [portfolio](https://github.com/emilianorlando-collab/portfolio)
 
 ---
 
-## Foco actual
+## Current Focus
 
-- Consolidar un portfolio sólido de proyectos end-to-end en Ciencia de Datos e IA.
-- Mejorar pipelines reproducibles con métricas, reportes y documentación profesional.
-- Seguir desarrollando proyectos aplicados con datos, modelos, automatización e interfaces utilizables.
-- Explorar automatizaciones con LLMs, integraciones API y agentes de IA.
-- Llevar prototipos de laboratorio a sistemas demostrables y fáciles de explicar.
+- Building a solid end-to-end portfolio in Data Science and AI.
+- Improving reproducible pipelines with metrics, reports, and professional documentation.
+- Developing applied projects with data, models, automation, and usable interfaces.
+- Exploring LLM automation, API integrations, and AI agents.
+- Turning lab prototypes into demonstrable systems that are easy to explain.
 
 ---
 
-## Contacto
+## Contact
 
 Email: emilianorlando@gmail.com  
 LinkedIn: [linkedin.com/in/emiliano-orlando-13405758](https://www.linkedin.com/in/emiliano-orlando-13405758/)
 
 ---
 
-Gracias por visitar mi perfil. Podés recorrer mis repositorios para ver proyectos de Ciencia de Datos, automatización, visión por computadora e investigación aplicada con IA.
+Thanks for visiting my profile. Feel free to explore my repositories to see projects in Data Science, automation, computer vision, and applied AI research.
